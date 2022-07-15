@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Привет из модуля one"),console.log("Привет из модуля two!")})();
